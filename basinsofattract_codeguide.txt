@@ -1,0 +1,4 @@
+"BasinsofAttractRun.m" is the main file for obtaining basins of attraction for a given value of Q(asymmetry parameter) and Ps(subglottal pressure)
+"KDE_test_locmax.m" is a file for testing different setups of the kdensity function, so as to find the optimal setup for use in main file.
+"kde.m" is the function file that does kernel density estimation using a solve-the-equation bandwidth.
+"kde_license.txt" is the license file that is mandated by the creators of "kde.m" to be distributed along with it. 
